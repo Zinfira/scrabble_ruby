@@ -46,9 +46,7 @@ _No known bugs at this time_
 | :-----|:-----|:-----|
 | It will turn a letter into a number | Input: D | Output: 2 |
 | It will turn a few letters into a word | Input: DAD | Output: 2,1,2|
-| It will turn uppercase words into lowercase words| Input: MOM | Output: mom |
-| It will turn lowercase words into uppercase words| Input: sister | Output:SISTER | 
-| If user doesn't enter a letter return an error | Input: # | Output: "Please enter a letter" | 
+| It will take multiple letters and add all their points togther. | Input: bagfkjq | Output:33 |
 
 
 ## Legal

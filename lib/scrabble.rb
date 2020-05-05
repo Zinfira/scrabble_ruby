@@ -31,10 +31,3 @@ class String
     score
   end
 end
-
-
-
-
-
-# scrabble_hash = Hash.new()
-# scrabble_hash = {1 => "AEIOULNRST", 2 => "DG"}
