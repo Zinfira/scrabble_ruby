@@ -1,5 +1,5 @@
-# _Scrabble Score _
-## _By: Celeste Field, Zinfira Safargalieva, Antonio Cruz _
+# _Scrabble Score_
+## _By: Celeste Field, Zinfira Safargalieva, Antonio Cruz_
 ## Description
 
 _This application will take various numbers and output a written word._
